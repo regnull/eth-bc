@@ -1,7 +1,6 @@
 # Test Ethereum Blockchain
 
-Network name: dummybc
-Network id: 112233
+This blockchain is pre-configured and ready to go. Use it for testing, or whatever.
 
 ## Quickstart
 
@@ -9,6 +8,13 @@ Network id: 112233
 make init_data
 make mine
 ```
+
+You can connect to your test blockchain via HTTP at http://127.0.0.1:8545
+
+## Network Details
+
+Network name: dummybc
+Network id: 112233
 
 ## Reset the Blockchain
 
