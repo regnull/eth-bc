@@ -31,6 +31,16 @@ All keys are pre-funded with some insane amount.
 
 These keys reside in Geth keystore, under data directory
 
+To use them, when running geth, specify either
+```
+--datadir=data
+```
+
+or
+```
+--keystore=data/keystore
+```
+
 Public key: 0xe147497C2214e7A67575364e75a06Ec47f1A60f6, password: 123456
 
 Public key: 0x8EB74486ec7Ec4B4057Eb9C19D645e7356cb8095, password: 123456
