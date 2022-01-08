@@ -3,6 +3,20 @@
 Network name: dummybc
 Network id: 112233
 
+## Quickstart
+
+```
+make init_data
+make mine
+```
+
+## Reset the Blockchain
+
+This will remove all the existing blocks and start over!
+```
+make init_data
+```
+
 ## Test Keys
 
 All keys are pre-funded with some insane amount.
